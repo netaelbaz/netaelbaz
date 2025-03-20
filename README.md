@@ -1,4 +1,3 @@
-## Hi I'm neta
 
 <h1 align="center">Hi I'm Neta</h1>
 <h3 align="center">A computer science student and a backend developer</h3>
